@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Blog of pengjunjie1207
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
+author: pengjunjie1207
+language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://pengjunjie1207.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -79,5 +79,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/pengjunjie1207/pengjunjie1207.github.io
+  repo: git@github.com:pengjunjie1207/pengjunjie1207.github.io.git
   branch: master
